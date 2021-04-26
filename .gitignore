@@ -1,0 +1,6 @@
+
+.idea/
+node_modules
+example/
+.DS_Store
+.travis.yml
