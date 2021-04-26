@@ -1,12 +1,3 @@
-###
- # @Author: taoxiang
- # @Date: 2021-04-25 17:02:01
- # @LastEditTime: 2021-04-26 10:43:17
- # @LastEditors: taoxiang
- # @Description: vuepress deploy
- # @FilePath: /docs/deploy.sh
- # 打工人,打工魂,打工都是人上人
-### 
 #!/usr/bin/env sh
 
 # 确保脚本抛出遇到的错误
