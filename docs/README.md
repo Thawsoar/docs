@@ -4,7 +4,7 @@ heroImage: /assets/img/logo.jpg
 heroText: 罗小黑
 tagline: 笔记
 actionText: 开始浏览
-actionLink: /javascript/
+actionLink: /javascript/base/base
 features:
 # - title: 
 #   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
