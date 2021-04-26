@@ -6,7 +6,7 @@ cache:
   directories:
     - node_modules
 before_install:
-  - chmod +x ./deploy.sh
+  - chmod u+x *.sh
 script:
-  - ./deploy.sh
+  - sh ./deploy.sh
 branch: master
